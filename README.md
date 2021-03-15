@@ -8,3 +8,5 @@
 
 📫 How to reach me: ariaramin24@gmail.com
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariaramin)](https://github.com/anuraghazra/github-readme-stats)
