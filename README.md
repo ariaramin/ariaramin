@@ -4,7 +4,7 @@
 
 🔭 I’m currently practicing
 
-🌱 I’m currently learning Django
+🌱 I’m currently learning Django,PHP
 
 📫 How to reach me: ariaramin24@gmail.com
 
