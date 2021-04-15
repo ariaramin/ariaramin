@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ariaramin" /> 
 </p>
 
-<p align="left">
+<p align="center">
 Hi, I’m Aria Ramin, a passionate Full-Stack web developer from Iran.
 I started programming with Python language in 2019. 
 </p>
