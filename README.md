@@ -4,6 +4,7 @@
 
 <p align="center"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=ariaramin" /> 
+  <img src="https://img.shields.io/github/followers/ariaramin?label=Follow&style=social" />
 </p>
 
 <p align="center">
@@ -38,8 +39,9 @@ I started programming with Python language in 2019.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ariaramin&theme=monokai" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariaramin&theme=dark" alt="ariaramin" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariaramin&theme=dark&margin-w=15&no-frame=true" alt="ariaramin" /></p>
 
 
 <!--
