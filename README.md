@@ -20,11 +20,11 @@ I started programming with Python language in 2019.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aria-ramin-81593420b/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="aria ramin" /></a>
-<a href="https://facebook.com/aria.ramin.1" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="aria ramin" /></a>
-<a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="aria._.ramin" /></a>
-<a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="ariaramin#7736" /></a>
-<a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="ariaramin#7736" /></a>
+<a href="https://www.figma.com/@ariaramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/figma.png"/></a>
+<a href="https://facebook.com/aria.ramin.1" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+<a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
