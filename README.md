@@ -45,6 +45,8 @@ I started programming with Python language in 2019.
 
 <p align="center"/> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ariaramin&theme=monokai&column=7&row=1&margin-w=10&no-frame=true" /> </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariaramin&layout=compact&theme=dark" /></p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariaramin&theme=dark" alt="ariaramin" /></p>
 
 
