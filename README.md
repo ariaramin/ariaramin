@@ -9,10 +9,12 @@
 </p>
 -->
 
+<!--
 <p align="center">
 Hi, I’m Aria Ramin, a passionate Full-Stack web developer from Iran.
 I started programming with Python language in 2019. 
 </p>
+-->
 
 
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
