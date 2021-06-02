@@ -35,7 +35,7 @@ I started programming with Python language in 2019.
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" />
-<img src="https://img.icons8.com/ios-filled/48/ffffff/jquery.png" alt="jquery" />
+<img src="https://img.icons8.com/ios-filled/48/34495e/jquery.png" alt="jquery" />
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" />
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" />
