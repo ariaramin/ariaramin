@@ -40,7 +40,8 @@ I started programming with Python language in 2019.
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" />
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
 <img src="https://img.icons8.com/material/48/0C4B33/django.png" alt="django" />
-<img src="https://img.icons8.com/color-glass/48/000000/api-settings.png"/>
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API" />
+<img src="https://img.icons8.com/fluent/48/000000/docker.png" alt="docker" />
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql db" />
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
 </p>
