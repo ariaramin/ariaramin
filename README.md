@@ -38,6 +38,7 @@ I started programming with Python language in 2019.
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" />
 <img src="https://img.icons8.com/ios-filled/48/34495e/jquery.png" alt="jquery" />
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" />
+<img src="https://nuxtjs.org/logos/nuxt-emoji.png" alt="nuxt" width="48"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
 <img src="https://img.icons8.com/material/48/0C4B33/django.png" alt="django" />
 <img src="https://img.icons8.com/material-rounded/48/e74c3c/api-settings.png" alt="api"/>
