@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>, I'm Aria</h1>
-<h3 align="center">A passionate web developer from Iran</h3>
+<h3 align="center">A passionate web developer who has migrated to mobile development</h3>
 
 <!--
 <p align="center"> 
