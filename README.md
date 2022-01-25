@@ -57,6 +57,10 @@ I started programming with Python language in 2019.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariaramin&theme=dark" alt="ariaramin" /></p>
 
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ariaramin&bg_color=151515&point=E91E63&line=FFFFFF&theme=xcode&count_private=true"  alt="ariaramin"/>
+</p>
+
 
 <!--
 <h3 align="center">My Stats:</h3>
