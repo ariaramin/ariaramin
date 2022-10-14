@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>, I'm Aria</h1>
-<h3 align="center">A passionate android developer</h3>
+<h3 align="center">A passionate mobile developer</h3>
 
 <!--
 <p align="center"> 
@@ -23,10 +23,11 @@ I started programming with Python language in 2019.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.figma.com/@ariaramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/figma.png"/></a> -->
-<a href="https://facebook.com/aria.ramin.1" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
-<a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="https://facebook.com/aria.ramin.1" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,14 +36,14 @@ I started programming with Python language in 2019.
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" />
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" />
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" />
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
 <img src="https://img.icons8.com/material/48/0C4B33/django.png" alt="django" />
-<img src="https://img.icons8.com/material-two-tone/48/000000/api-settings.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql db" />
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code"/>
