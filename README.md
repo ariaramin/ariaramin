@@ -31,21 +31,12 @@ I started programming with Python language in 2019.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" />
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" />
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
-<img src="https://img.icons8.com/material/48/0C4B33/django.png" alt="django" />
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql db" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<p align="left"> src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu"/>
 </p>
