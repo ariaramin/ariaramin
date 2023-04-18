@@ -31,7 +31,9 @@ I started programming with Python language in 2019.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
