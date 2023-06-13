@@ -41,6 +41,7 @@ I started programming with Python language in 2019.
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
 </p>
 
 <h1 align="center">Trophy and Stats</h1>
@@ -52,8 +53,17 @@ I started programming with Python language in 2019.
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariaramin&theme=dark" alt="ariaramin" /></p>
 
 <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ariaramin&bg_color=151515&point=E91E63&line=FFFFFF&theme=xcode&count_private=true"  alt="ariaramin"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ariaramin&custom_title=Aria%20Ramin's%20Contribution%20Graph&theme=react&hide_border=true"  alt="ariaramin"/>
 </p>
+
+<h1 align="center">Quote</h1>
+
+<p align="center">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"  alt="ariaramin"/>
+</p>
+
+
+
 
 
 <!--
