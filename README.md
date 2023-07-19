@@ -1,67 +1,48 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>, I'm Aria Ramin</h1>
+<h3 align="center">A passionate flutter developer from Iran</h3>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>, I'm Aria</h1>
-<h3 align="center">A passionate mobile developer</h3>
+## 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariaramin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ariaramin" /> </p>
 
-<!--
-<p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ariaramin" /> 
-  <img src="https://img.shields.io/github/followers/ariaramin?label=Follow&style=social" />
-</p>
--->
+- 🔭 I’m currently working on **[Pomo](https://github.com/ariaramin/pomo)**
 
-<!--
-<p align="center">
-Hi, I’m Aria Ramin, a passionate Full-Stack web developer from Iran.
-I started programming with Python language in 2019. 
-</p>
--->
+- 🌱 I’m currently learning **GetX**
 
+- 💬 Ask me about **Flutter**
 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="280" />
-</hr>
+- 📫 How to reach me **ariaramin24@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="280" />-->
+
+## 🌐 Socials:
 <p align="left">
 <!-- <a href="https://www.figma.com/@ariaramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/figma.png"/></a> -->
 <a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
-<a href="https://facebook.com/aria.ramin.1" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Tech Stack:
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+<!--<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>-->
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu"/>
+<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" />
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
 </p>
 
-<h1 align="center">Trophy and Stats</h1>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ariaramin&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
-<p align="center"/> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ariaramin&theme=monokai&column=7&row=1&margin-w=10&no-frame=true" /> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariaramin&layout=compact&theme=dark" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariaramin&theme=dark" alt="ariaramin" /></p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ariaramin&custom_title=Aria%20Ramin's%20Contribution%20Graph&theme=react&hide_border=true"  alt="ariaramin"/>
-</p>
-
-<h1 align="center">Quote</h1>
-
-<p align="center">
-    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"  alt="ariaramin"/>
-</p>
-
+## 💰 You can help me by Donating
+<p><a href="https://www.buymeacoffee.com/ariaramin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="ariaramin" /></a></p>
+<a href="https://www.coffeebede.com/ariaramin"> <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="210" /> </a>
 
 
 
