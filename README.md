@@ -4,7 +4,7 @@
 ## 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariaramin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ariaramin" /> </p>
 
-- 🔭 I’m currently working on **[Pomo](https://github.com/ariaramin/pomo)**
+- 🔭 I’m currently working on **Monito App**
 
 - 🌱 I’m currently learning **GetX**
 
