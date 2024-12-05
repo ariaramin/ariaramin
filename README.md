@@ -18,7 +18,7 @@
 <p align="left">
 <!-- <a href="https://www.figma.com/@ariaramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/figma.png"/></a> -->
 <a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://twitter.com/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
 <a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
 <a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
@@ -31,7 +31,7 @@
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" />
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
