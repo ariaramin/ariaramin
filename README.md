@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on **Aviz App* -->
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **Flutter**
 
