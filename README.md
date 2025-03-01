@@ -18,9 +18,10 @@
 <p align="left">
 <!-- <a href="https://www.figma.com/@ariaramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/figma.png"/></a> -->
 <a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/ariaramin/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png"/></a>
 <a href="https://twitter.com/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
 <a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
-<a href="mailto:ariaramin24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+<a href="mailto:ariaramindeveloper@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
 
 ## 💻 Tech Stack:
