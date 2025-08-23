@@ -1,56 +1,73 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>, I'm Aria Ramin</h1>
-<h3 align="center">A passionate flutter developer from Iran</h3>
+<h1 align="center">Hey there! 👋 I'm Aria Ramin</h1>
 
-## 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariaramin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ariaramin" /> </p>
+###
 
-<!-- - 🔭 I’m currently working on **Aviz App* -->
+<h3 align="center">🚀 Flutter Developer | 📱 Mobile App Enthusiast | 🌍 Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **Android**
+###
 
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **ariaramin24@gmail.com**
-
-<!--<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="280" />-->
-
-## 🌐 Socials:
-<p align="left">
-<!-- <a href="https://www.figma.com/@ariaramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/figma.png"/></a> -->
-<a href="https://instagram.com/aria._.ramin" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://www.linkedin.com/in/ariaramin/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="https://twitter.com/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
-<a href="https://t.me/ariaramin7" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
-<a href="mailto:ariaramindeveloper@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+<p align="center">
+  💡 Turning ideas into beautiful apps with <b>Flutter & Dart</b> 💡<br>
+  📚 Currently diving deeper into <b>Android Native</b> 📚<br>
+  🎯 Passionate about <b>UI/UX</b> and clean, scalable code 🎯<br>
+  💬 Ask me anything about <b>Flutter & State Management</b> 💬<br>
+  📫 Reach me at: <b>ariaramin24@gmail.com</b> 📫
 </p>
 
-## 💻 Tech Stack:
-<p align="left"> 
-<!--<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>-->
-<img src="https://img.icons8.com/color/48/000000/dart.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/android-studio.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" />
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
-<img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
-</p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ariaramin&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+###
 
-## 💰 You can help me by Donating
-<p><a href="https://www.buymeacoffee.com/ariaramin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="ariaramin" /></a></p>
-<a href="https://www.coffeebede.com/ariaramin"> <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="210" /> </a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://instagram.com/ariaramindev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+  </a>
+  <a href="https://t.me/ariaramin7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/>
+  </a>
+  <a href="https://twitter.com/ariaramin7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
+  </a>
+  <a href="mailto:ariaramindev84@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+  <a href="https://stackoverflow.com/users/15659294/aria-ramin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"/>
+  </a>
+</div>
 
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariaramin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-<!--
-<h3 align="center">My Stats:</h3>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ariaramin&theme=radical" /></p>
-<h3 align="center">Top Languages:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariaramin&theme=radical&show_icons=true&locale=en&layout=compact" /></p>
--->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariaramin/ariaramin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariaramin/ariaramin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ariaramin/ariaramin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
