@@ -39,6 +39,10 @@
 ### 🌐 Connect with Me
 
 <div>
+  <a href="https://www.linkedin.com/in/ariaramindev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="42" alt="linkedin logo"/>
+  </a>
+    <img width="12" />
   <a href="https://instagram.com/ariaramindev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="42" alt="instagram logo"/>
   </a>
